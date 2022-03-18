@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi! This is Valentine. Data Scientist. New Level!!
+          Hi! This is Valentine. Data Scientist. Using Docker with Git, Tavis CI and AWS Elastic Beanstalk!!
         </p>
         <a
           className="App-link"
